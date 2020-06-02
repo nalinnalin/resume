@@ -11,7 +11,7 @@
       <div class="aside-content">
           <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1587472653390&di=a4e1c8d8ba5c8dd1d8e87d527d2cc5a6&imgtype=0&src=http%3A%2F%2Fimg.jk51.com%2Fimg_jk51%2F353045950.jpeg" class="aside-portrait">
           <div class="personal-desc">
-              <p>娜娜</p>
+              <p>娜娜dede</p>
               <p> Web前端开发工程师 </p>
               <p> 女 / 1992.05 </p>
               <span class="work-year">3年工作经验</span>
